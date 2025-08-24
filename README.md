@@ -37,7 +37,8 @@ LOGISTICS
   - The official language in the class is English. 
   - Homework assignments will be announced on KLMS. Expect an assignment at least every two weeks. Ideally, the solutions to homeworks should be written either in latex / in a text editor, e.g. MS Word / or VERY CLEAN AND IMMEDIATELY READABLE handwriting. People who grade your homework will NOT spend time struggling to decifer your handwriting. No matter how great your solution is, if it's not readable EASILY, it gets exactly that much score. The assignment needs to be submitted before the indicated deadline on KLMS. 
   - A strict policy against dishonest behaviors will be applied; expect an "F" grade and be reported to the SoC board when you fail to follow the [honor code](https://cs.kaist.ac.kr/content?menu=309).
-  - No retake of the course will be allowed regardless of your grade. 
+  - No retake of the course will be allowed regardless of your grade.
+  - Class attendance is not taken into account for the grade.
 
 
 Course Description

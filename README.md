@@ -28,7 +28,7 @@ LOGISTICS
 - Schedule: 
   - Lecture Schedule. Monday and Wednesday, 09:00-10:30.
   - All lectures will take place on-site.
-  - No lecture during the week of 6-10 Oct (Korean Thanksgiving Holiday) and 19th November.
+  - No lecture during the week of 6-10 Oct (Korean Thanksgiving Holiday) and on 19th November.
      
 - Grading: Homeworks, Participation, Quiz 30%, Midterm exam 35%, Final exam 35%
   

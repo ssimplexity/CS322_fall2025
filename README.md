@@ -52,8 +52,9 @@ We study ‘computer science’ and a computer is a computing machine. In this c
 - Is there a problem we’d better give up finding an ‘efficient’ algorithm? How to tell if a problem is efficiently computable or not.
 - Is the computer implemented as your iMac the only form of a computer? 
 
-Recommended Prerequisite: We assume that you have attended Discrete Mathematics (CS204) or have a sufficient background knowledge covered in similar courses. Introduction to Algorithms (CS300) is a plus. 
-To be successful in this course, you need certain, if not high, level of mathematical maturity. For example, competence in writing a formal proof and digesting abstract concepts in mathematical formalism are needed. 
+Recommended Prerequisite
+- We assume that you have attended Discrete Mathematics (CS204) or have a sufficient background knowledge covered in similar courses. Introduction to Algorithms (CS300) is a plus. 
+- To be successful in this course, you need certain, if not high, level of mathematical maturity. For example, competence in writing a formal proof and digesting abstract concepts in mathematical formalism are needed. 
 We also assume that you have a moderate experience in programming, even though we do not do coding during the class.
 
 

@@ -21,7 +21,7 @@ LOGISTICS
 - Lecture Room: 1501 at E3-0
   
 - Office hour with the lecturer: after each lecture or upon arrangement.
-- Office hour with the TAs: TBD
+- Office hour with the TAs: Monday 17h-18h, Room 307 at KRAFTON x SoC building.
   
 
   

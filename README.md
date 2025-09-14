@@ -73,7 +73,7 @@ Course Plan (liable to be adjusted)
 ------------
 - Week 1 (1-5 Sep): Introduction. Deterministic finite automata.
 - Week 2 (8-12 Sep): Nondeterministic finite automata. Equivalence of DFA and NFA. Closure under regular operations. 
-- Week 3 (15-19 Sep): Regular expression. Conversions between regular expressns and NFAs. Regular grammars. Monadic Second Order logic. (Selectively)
+- Week 3 (15-19 Sep): Regular expression. Conversions between regular expressions and NFAs. Regular grammars. Monadic Second Order logic. (Selectively)
 -  Week 4 (22-26 Sep): Pumping lemma. Myhill-Nerode Theorem. Properties of Regular languages.
 - Week 5 (29 Sep - 3 Oct): Context-free grammar and language. Parse trees. Ambiguity. Normal forms. 
 - Week 6 (6-10 Oct): Korean Thanksgiving Holiday (no lecture).

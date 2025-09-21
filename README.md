@@ -44,8 +44,8 @@ LOGISTICS
 Course Description
 -------------------
 We study ‘computer science’ and a computer is a computing machine. In this course, we study various notions and ideas which were developed since 1930’s in response to fundamental questions such as the following. 
-  - What do we mean by computing? 
-  - What is the object that a computing machine computes? Why we call a programming language a ‘language’?
+- What do we mean by computing? 
+- What is the object that a computing machine computes? Why do we call a programming language a ‘language’?
 - Both computer scientists and linguists talk about ‘languages’. Are there something in common? How to formalize the link between them.
 - Computers ranging from high-performance server, desktop, laptops to mobile phones, from a wide range of manufacturers are all ‘computers’. On which ground, do we treate them as if they are (essentially) equally powerful machines which are all called computers?
 - Is there a problem which cannot be ‘computed’? How to tell if a problem is computable or not.
@@ -67,14 +67,14 @@ Course Materials
 - Other useful materials
   - Peter Linz, An Introduction to Formal Languages and Automata, 6th Edition, 2017, Jones & Bartlett Learning.
   - Scott Aaronson’s lecture notes on Automata, computability and complexity. [Link](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/pages/lecture-notes/).
-
+  - Mathematical Foundations of Computing (Summer 2025), Stanford University. [Link](https://web.stanford.edu/class/cs103/syllabus).
  
 Course Plan (liable to be adjusted)
 ------------
 - Week 1 (1-5 Sep): Introduction. Deterministic finite automata.
 - Week 2 (8-12 Sep): Nondeterministic finite automata. Equivalence of DFA and NFA. Closure under regular operations. 
 - Week 3 (15-19 Sep): Regular expression. Conversions between regular expressions and NFAs. Pumping lemma. State minimization of DFA (Peter Linz' textbook). 
--  Week 4 (22-26 Sep): Myhill-Nerode Theorem. Properties of Regular languages. (Regular grammars or Monadic Second Order logic if time allows.)
+-  Week 4 (22-26 Sep): Myhill-Nerode Theorem. MSO logic on strings. Properties of Regular languages.
 - Week 5 (29 Sep - 3 Oct): Context-free grammar and language. Parse trees. Ambiguity. Normal forms. 
 - Week 6 (6-10 Oct): Korean Thanksgiving Holiday (no lecture).
 - Week 7 (13-17 Oct): Pushdown automata. Equivalence of pushdown automata and context-free grammars.

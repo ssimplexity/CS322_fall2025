@@ -75,7 +75,7 @@ Course Plan (liable to be adjusted)
 - Week 2 (8-12 Sep): Nondeterministic finite automata. Equivalence of DFA and NFA. Closure under regular operations. 
 - Week 3 (15-19 Sep): Regular expression. Conversions between regular expressions and NFAs. Pumping lemma. State minimization of DFA (Peter Linz' textbook). 
 -  Week 4 (22-26 Sep): Myhill-Nerode Theorem. MSO logic on strings (check [Lecture note](https://github.com/ssimplexity/CS492_spring2025/blob/main/01-02.Intro-MSO-DFA.pdf) and [Lecture note](https://github.com/ssimplexity/CS492_spring2025/blob/main/03-04.BuchiTheoremStrings.pdf) for formal treatment). Properties of Regular languages.
-- Week 5 (29 Sep - 3 Oct): Properties of Regular languages continues. Context-free grammar, derivation. Context-free language. Parse trees.  
+- Week 5 (29 Sep - 3 Oct): Properties of Regular languages continues. (check [Lecture note](https://github.com/ssimplexity/CS322_fall2025/blob/main/slides/%5BLec08%5DMyhill-Nerode-regularity.pdf) for a full proof of using Myhill-Nerode theorem for proving a language is regular, presented during the class.) Context-free grammar, derivation. Context-free language. Parse trees.  
 - Week 6 (6-10 Oct): Korean Thanksgiving Holiday (no lecture).
 - Week 7 (13-17 Oct): Ambiguity. Pushdown automata. Equivalence of pushdown automata and context-free grammars.
 - Week 8 (20-24 Oct): Mid-term exam.

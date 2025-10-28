@@ -79,7 +79,7 @@ Course Plan (liable to be adjusted)
 - Week 6 (6-10 Oct): Korean Thanksgiving Holiday (no lecture).
 - Week 7 (13-17 Oct): Ambiguity. Pushdown automata. Equivalence of pushdown automata and context-free grammars.
 - Week 8 (20-24 Oct): Mid-term exam.
-- Week 9 (27-31 Oct): Deterministic PDA. Properties of Context-free languages. Pumping lemma for CFL. CYK algorithm.
+- Week 9 (27-31 Oct): Properties of Context-free languages. Pumping lemma for CFL. CYK algorithm.
 - Week 10 (3-7 Nov): Turing machines. Examples. Turing thesis. Turing machine variants. 
 - Week 11 (10-14 Nov): Universal Turing Machine. Diagonal arguments. Decidable and undecidable languages. Recongnizability. Hierarchy of formal languages.
 - Week 12 (17-21 Nov): Reducibility and more undecidable problems. No lecture on 19th Nov.

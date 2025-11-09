@@ -81,8 +81,8 @@ Course Plan (liable to be adjusted)
 - Week 8 (20-24 Oct): Mid-term exam.
 - Week 9 (27-31 Oct): Properties of Context-free languages. Pumping lemma for CFL. CYK algorithm.
 - Week 10 (3-7 Nov): Turing machines. Examples. Turing thesis. Turing machine variants. 
-- Week 11 (10-14 Nov): Universal Turing Machine. Diagonal arguments. Decidable and undecidable languages. Recongnizability. Hierarchy of formal languages.
-- Week 12 (17-21 Nov): Reducibility and more undecidable problems. No lecture on 19th Nov.
+- Week 11 (10-14 Nov): Universal Turing Machine. Diagonal argument and the existence of an unrecognizable language.
+- Week 12 (17-21 Nov): Undecidability. Reducibility and undecidable problems. No lecture on 19th Nov.
 - Week 13 (24-28 Nov): Reducibility continues. 
 - Week 14 (1-5 Dec): Limit of efficient computations. Class P and NP. Polynomial-time reduction and NP-completeness. Cook-Levin Theorem. Other NP-complete problems. Altenate lecturer.
 - Week 15 (8-12 Dec): Space complexity. 

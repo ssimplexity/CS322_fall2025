@@ -84,8 +84,8 @@ Course Plan (liable to be adjusted)
 - Week 11 (10-14 Nov): Universal Turing Machine. Diagonal argument and the existence of an unrecognizable language.
 - Week 12 (17-21 Nov): Undecidability. Reducibility and undecidable problems. No lecture on 19th Nov.
 - Week 13 (24-28 Nov): Reducibility continues. 
-- Week 14 (1-5 Dec): Limit of efficient computations. Class P and NP. Polynomial-time reduction and NP-completeness. Cook-Levin Theorem. Other NP-complete problems. Altenate lecturer.
-- Week 15 (8-12 Dec): Space complexity. 
+- Week 14 (1-5 Dec): Limit of efficient computations. Class P and NP. Polynomial-time reduction and NP-completeness. Cook-Levin Theorem. Altenate lecturer.
+- Week 15 (8-12 Dec): Other NP-complete problems. Space complexity. 
 - Week 16 (15-19 Dec): Final exam.
 
 
